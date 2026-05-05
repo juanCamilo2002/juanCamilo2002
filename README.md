@@ -43,10 +43,7 @@ Soy un ingeniero de software apasionado por crear soluciones tecnológicas que i
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juanCamilo2002&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanCamilo2002&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanCamilo2002&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanCamilo2002&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&disable_animations=true&streak=true" height="140" alt="streak" />
 </div>
 
 <div align="center">
