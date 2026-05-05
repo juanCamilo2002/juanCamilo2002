@@ -42,7 +42,7 @@ Soy un ingeniero de software apasionado por crear soluciones tecnológicas que i
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Aulix Backend](https://github.com/juanCamilo2002/aulix-backend) | Educational platform API | NestJS, Spring Boot, Django |
+| [Aulix Backend](https://github.com/juanCamilo2002/aulix-backend) | Educational platform API | Spring Boot, Java |
 | [API HuilaXplorer](https://github.com/juanCamilo2002/api_huilaXplorer) | REST API for HuilaXplorer | Django, Python |
 | [Gamer Buy API](https://github.com/juanCamilo2002/gamer_buy_api) | E-commerce API | NestJS, TypeScript |
 
