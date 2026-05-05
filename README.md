@@ -33,8 +33,11 @@ Soy un ingeniero de software apasionado por crear soluciones tecnológicas que i
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Aulix Frontend](https://github.com/juanCamilo2002/aulix-frontend) | Aulix Frontend | React, Next.js, TypeScript |
-| [Aulix Backend](https://github.com/juanCamilo2002/aulix-backend) | Aulix Backend | NestJS, Spring Boot, Django |
+| [Aulix](https://github.com/juanCamilo2002/aulix-frontend) | Educational platform | React, Next.js, TypeScript |
+| [Admin HuilaXplorer](https://github.com/juanCamilo2002/admin_huilaxplorer) | Admin dashboard | Next.js, JavaScript |
+| [API HuilaXplorer](https://github.com/juanCamilo2002/api_huilaXplorer) | REST API for HuilaXplorer | Django, Python |
+| [Biblioteca FET](https://github.com/juanCamilo2002/biblioteca-fet-app) | Library management app | JavaScript |
+| [Gamer Buy](https://github.com/juanCamilo2002/gamer_buy_api) | E-commerce for gamers | TypeScript, NestJS |
 
 ---
 
