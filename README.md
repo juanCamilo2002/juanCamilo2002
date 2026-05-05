@@ -29,15 +29,22 @@ Soy un ingeniero de software apasionado por crear soluciones tecnológicas que i
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Frontend Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Aulix](https://github.com/juanCamilo2002/aulix-frontend) | Educational platform | React, Next.js, TypeScript |
-| [Admin HuilaXplorer](https://github.com/juanCamilo2002/admin_huilaxplorer) | Admin dashboard | Next.js, JavaScript |
-| [API HuilaXplorer](https://github.com/juanCamilo2002/api_huilaXplorer) | REST API for HuilaXplorer | Django, Python |
+| [Admin HuilaXplorer](https://github.com/juanCamilo2002/admin_huilaxplorer) | Admin dashboard | Next.js |
 | [Biblioteca FET](https://github.com/juanCamilo2002/biblioteca-fet-app) | Library management app | JavaScript |
-| [Gamer Buy](https://github.com/juanCamilo2002/gamer_buy_api) | E-commerce for gamers | TypeScript, NestJS |
+| [Gamer Buy Front](https://github.com/juanCamilo2002/gamer_buy_front) | E-commerce for gamers | React, TypeScript |
+
+### 🛠️ Backend Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Aulix Backend](https://github.com/juanCamilo2002/aulix-backend) | Educational platform API | NestJS, Spring Boot, Django |
+| [API HuilaXplorer](https://github.com/juanCamilo2002/api_huilaXplorer) | REST API for HuilaXplorer | Django, Python |
+| [Gamer Buy API](https://github.com/juanCamilo2002/gamer_buy_api) | E-commerce API | NestJS, TypeScript |
 
 ---
 
